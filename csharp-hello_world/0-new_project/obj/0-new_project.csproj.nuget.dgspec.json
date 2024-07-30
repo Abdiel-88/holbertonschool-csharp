@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj": {}
+    "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj": {
+    "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
+        "projectUniqueName": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
         "projectName": "0-new_project",
-        "projectPath": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/csharp-hello_world/0-new_project/0-new_project.csproj",
-        "packagesPath": "/home/aleister/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/csharp-hello_world/0-new_project/obj/",
+        "projectPath": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\0-new_project.csproj",
+        "packagesPath": "C:\\Users\\abdie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\csharp-hello_world\\0-new_project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/aleister/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\abdie\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
