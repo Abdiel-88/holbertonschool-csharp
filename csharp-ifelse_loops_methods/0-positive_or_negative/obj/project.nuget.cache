@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wGCngsWn+c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\csharp-ifelse_loops_methods\\0-positive_or_negative\\0-positive_or_negative.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdie\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\abdie\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\abdie\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\abdie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
