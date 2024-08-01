@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net6.0\1-element_at.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net6.0\1-element_at.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net6.0\1-element_at.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net6.0\1-element_at.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\bin\Debug\net6.0\1-element_at.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\refint\1-element_at.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\1-element_at.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\1-element_at\obj\Debug\net6.0\ref\1-element_at.dll
