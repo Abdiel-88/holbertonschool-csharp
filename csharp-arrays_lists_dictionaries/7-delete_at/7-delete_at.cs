@@ -5,13 +5,6 @@ class List
 {
     public static List<int> DeleteAt(List<int> myList, int index)
     {
-        // Check if the list is null or empty
-        if (myList == null || myList.Count == 0)
-        {
-            Console.WriteLine("List is empty");
-            return myList;
-        }
-
         // Check if the index is out of range
         if (index < 0 || index >= myList.Count)
         {
@@ -20,7 +13,7 @@ class List
         }
 
         // Create a new list to store the result
-        List<int> updatedList = new List<int>();
+        List<int> updatedList = new List<int>(myList.Count - 1);
 
         // Add all elements except the one at the specified index
         for (int i = 0; i < myList.Count; i++)
