@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net6.0\9-add_key_value.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net6.0\9-add_key_value.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net6.0\9-add_key_value.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net6.0\9-add_key_value.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\bin\Debug\net6.0\9-add_key_value.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\refint\9-add_key_value.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\9-add_key_value.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\9-add_key_value\obj\Debug\net6.0\ref\9-add_key_value.dll
