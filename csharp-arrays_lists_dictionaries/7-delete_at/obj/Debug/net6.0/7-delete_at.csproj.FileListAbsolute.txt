@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net6.0\7-delete_at.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net6.0\7-delete_at.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net6.0\7-delete_at.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net6.0\7-delete_at.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\bin\Debug\net6.0\7-delete_at.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\refint\7-delete_at.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\7-delete_at.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\7-delete_at\obj\Debug\net6.0\ref\7-delete_at.dll
