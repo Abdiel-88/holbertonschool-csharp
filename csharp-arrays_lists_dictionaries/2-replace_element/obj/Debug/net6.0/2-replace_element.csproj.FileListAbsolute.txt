@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net6.0\2-replace_element.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net6.0\2-replace_element.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net6.0\2-replace_element.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net6.0\2-replace_element.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\bin\Debug\net6.0\2-replace_element.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\refint\2-replace_element.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\2-replace_element.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\2-replace_element\obj\Debug\net6.0\ref\2-replace_element.dll
