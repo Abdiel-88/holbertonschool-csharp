@@ -5,14 +5,17 @@ class List
 {
     public static List<int> DeleteAt(List<int> myList, int index)
     {
+        // Check if the index is out of range
         if (index < 0 || index >= myList.Count)
         {
             Console.WriteLine("Index is out of range");
             return myList;
         }
 
-        List<int> updatedList = new List<int>();
+        // Create a new list to store the result
+        List<int> updatedList = new List<int>(myList.Count - 1);
 
+        // Add all elements except the one at the specified index
         for (int i = 0; i < myList.Count; i++)
         {
             if (i != index)
