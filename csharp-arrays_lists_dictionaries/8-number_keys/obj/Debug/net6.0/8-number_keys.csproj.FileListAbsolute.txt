@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net6.0\8-number_keys.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net6.0\8-number_keys.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net6.0\8-number_keys.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net6.0\8-number_keys.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\bin\Debug\net6.0\8-number_keys.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\refint\8-number_keys.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\8-number_keys.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\8-number_keys\obj\Debug\net6.0\ref\8-number_keys.dll
