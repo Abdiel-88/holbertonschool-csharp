@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\net6.0\5-max_integer.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\net6.0\5-max_integer.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\net6.0\5-max_integer.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\net6.0\5-max_integer.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\bin\Debug\net6.0\5-max_integer.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\refint\5-max_integer.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\5-max_integer.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\5-max_integer\obj\Debug\net6.0\ref\5-max_integer.dll
