@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net6.0\15-square_matrix.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net6.0\15-square_matrix.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net6.0\15-square_matrix.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net6.0\15-square_matrix.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\bin\Debug\net6.0\15-square_matrix.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\refint\15-square_matrix.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\15-square_matrix.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-arrays_lists_dictionaries\15-square_matrix\obj\Debug\net6.0\ref\15-square_matrix.dll
