@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\net6.0\0-unique_add.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\net6.0\0-unique_add.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\net6.0\0-unique_add.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\net6.0\0-unique_add.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\net6.0\0-unique_add.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\refint\0-unique_add.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\0-unique_add.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\net6.0\ref\0-unique_add.dll
