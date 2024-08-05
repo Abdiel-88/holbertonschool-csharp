@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\bin\Debug\net6.0\11-linkedlist_sum.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\bin\Debug\net6.0\11-linkedlist_sum.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\bin\Debug\net6.0\11-linkedlist_sum.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\bin\Debug\net6.0\11-linkedlist_sum.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\bin\Debug\net6.0\11-linkedlist_sum.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\refint\11-linkedlist_sum.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\11-linkedlist_sum.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\11-linkedlist_sum\obj\Debug\net6.0\ref\11-linkedlist_sum.dll
