@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\net6.0\4-queue_enqueue_dequeue.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\net6.0\4-queue_enqueue_dequeue.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\net6.0\4-queue_enqueue_dequeue.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\net6.0\4-queue_enqueue_dequeue.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\bin\Debug\net6.0\4-queue_enqueue_dequeue.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\refint\4-queue_enqueue_dequeue.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\4-queue_enqueue_dequeue.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\4-queue_enqueue_dequeue\obj\Debug\net6.0\ref\4-queue_enqueue_dequeue.dll
