@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\bin\Debug\net6.0\3-stack_push_pop.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\bin\Debug\net6.0\3-stack_push_pop.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\bin\Debug\net6.0\3-stack_push_pop.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\bin\Debug\net6.0\3-stack_push_pop.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\bin\Debug\net6.0\3-stack_push_pop.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\refint\3-stack_push_pop.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\3-stack_push_pop.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\3-stack_push_pop\obj\Debug\net6.0\ref\3-stack_push_pop.dll
