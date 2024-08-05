@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net6.0\7-linkedlist_add.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net6.0\7-linkedlist_add.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net6.0\7-linkedlist_add.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net6.0\7-linkedlist_add.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\bin\Debug\net6.0\7-linkedlist_add.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\refint\7-linkedlist_add.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\7-linkedlist_add.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\7-linkedlist_add\obj\Debug\net6.0\ref\7-linkedlist_add.dll
