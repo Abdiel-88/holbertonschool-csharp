@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net6.0\8-linkedlist_find.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net6.0\8-linkedlist_find.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net6.0\8-linkedlist_find.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net6.0\8-linkedlist_find.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\bin\Debug\net6.0\8-linkedlist_find.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\refint\8-linkedlist_find.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\8-linkedlist_find.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\8-linkedlist_find\obj\Debug\net6.0\ref\8-linkedlist_find.dll
