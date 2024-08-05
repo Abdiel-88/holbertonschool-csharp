@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net6.0\13-linkedlist_delete.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net6.0\13-linkedlist_delete.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net6.0\13-linkedlist_delete.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net6.0\13-linkedlist_delete.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\bin\Debug\net6.0\13-linkedlist_delete.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\refint\13-linkedlist_delete.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\13-linkedlist_delete.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\13-linkedlist_delete\obj\Debug\net6.0\ref\13-linkedlist_delete.dll
