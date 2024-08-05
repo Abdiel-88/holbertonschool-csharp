@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\net6.0\6-linkedlist_length.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\net6.0\6-linkedlist_length.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\net6.0\6-linkedlist_length.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\net6.0\6-linkedlist_length.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\bin\Debug\net6.0\6-linkedlist_length.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\refint\6-linkedlist_length.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\6-linkedlist_length.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\6-linkedlist_length\obj\Debug\net6.0\ref\6-linkedlist_length.dll
