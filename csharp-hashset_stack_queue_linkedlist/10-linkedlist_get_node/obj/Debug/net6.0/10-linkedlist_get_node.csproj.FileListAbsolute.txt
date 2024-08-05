@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net6.0\10-linkedlist_get_node.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net6.0\10-linkedlist_get_node.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net6.0\10-linkedlist_get_node.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net6.0\10-linkedlist_get_node.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\bin\Debug\net6.0\10-linkedlist_get_node.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\refint\10-linkedlist_get_node.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\10-linkedlist_get_node.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-hashset_stack_queue_linkedlist\10-linkedlist_get_node\obj\Debug\net6.0\ref\10-linkedlist_get_node.dll
