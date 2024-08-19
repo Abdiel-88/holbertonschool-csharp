@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net8.0\SafeListPrint.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net8.0\SafeListPrint.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net8.0\SafeListPrint.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net8.0\SafeListPrint.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\bin\Debug\net8.0\SafeListPrint.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\refint\SafeListPrint.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\SafeListPrint.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-exceptions\0-safe_list_print\obj\Debug\net8.0\ref\SafeListPrint.dll
