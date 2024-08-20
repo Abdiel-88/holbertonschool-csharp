@@ -1,0 +1,6 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\netcoreapp2.1\2-dog.csproj.AssemblyReference.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\netcoreapp2.1\2-dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\netcoreapp2.1\2-dog.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\netcoreapp2.1\2-dog.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\netcoreapp2.1\2-dog.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\netcoreapp2.1\2-dog.sourcelink.json

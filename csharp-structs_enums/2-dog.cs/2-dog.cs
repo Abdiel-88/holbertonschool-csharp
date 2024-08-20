@@ -1,18 +1,12 @@
-﻿public enum Rating
-{
-    Good,
-    Great,
-    Excellent
-}
+﻿﻿using System;
 
-public struct Dog
+struct Dog
 {
     public string name;
     public float age;
     public string owner;
     public Rating rating;
 
-    // Constructor
     public Dog(string name, float age, string owner, Rating rating)
     {
         this.name = name;
@@ -20,4 +14,11 @@ public struct Dog
         this.owner = owner;
         this.rating = rating;
     }
+}
+
+enum Rating
+{
+    Good,
+    Great,
+    Excellent
 }
