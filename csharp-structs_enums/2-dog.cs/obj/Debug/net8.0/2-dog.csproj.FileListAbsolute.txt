@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\bin\Debug\net8.0\2-dog.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\bin\Debug\net8.0\2-dog.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\bin\Debug\net8.0\2-dog.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\bin\Debug\net8.0\2-dog.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\bin\Debug\net8.0\2-dog.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\refint\2-dog.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\2-dog.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-structs_enums\2-dog.cs\obj\Debug\net8.0\ref\2-dog.dll
