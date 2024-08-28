@@ -2,41 +2,41 @@ using NUnit.Framework;
 
 namespace MyMath.Tests
 {
-    /// <summary>
-    /// Contains unit tests for the Operations class.
-    /// </summary>
+    [TestFixture]
+    /// <summary>Tests Alz</summary>
     public class MatrixTests
     {
         [Test]
-        public void Divide_ValidMatrix_ReturnsDividedMatrix()
+        public void positivetwo()
         {
-            int[,] matrix = { { 4, 8 }, { 16, 32 } };
-            int divisor = 4;
-            int[,] expected = { { 1, 2 }, { 4, 8 } };
+            int[,] matrix = new int[,] {{ 30, 40 }, { 5, 11 }, { 15, 6 }, { 7, 8 }};
+            int n = 2;
 
-            int[,] result = Matrix.Divide(matrix, divisor);
+            int[,] result = Matrix.Divide(matrix, n);
 
-            Assert.That(result, Is.EqualTo(expected));
+            Assert.AreEqual(new int[,] {{ 15, 20 }, { 2, 5 }, { 7, 3 }, { 3, 4 }}, result);
         }
 
         [Test]
-        public void Divide_DivisorZero_ReturnsNull()
+        public void zero()
         {
-            int[,] matrix = { { 4, 8 }, { 16, 32 } };
+            int[,] matrix = new int[,] {{ 30, 40 }, { 5, 11 }, { 15, 6 }, { 7, 8 }};
+            int n = 0;
 
-            int[,] result = Matrix.Divide(matrix, 0);
+            int[,] result = Matrix.Divide(matrix, n);
 
-            Assert.IsNull(result);
+            Assert.AreEqual(null, result);
         }
-
+        
         [Test]
-        public void Divide_NullMatrix_ReturnsNull()
+        public void snull()
         {
             int[,] matrix = null;
+            int n = 3;
 
-            int[,] result = Matrix.Divide(matrix, 2);
+            int[,] result = Matrix.Divide(matrix, n);
 
-            Assert.IsNull(result);
+            Assert.AreEqual(null, result);
         }
     }
 }
