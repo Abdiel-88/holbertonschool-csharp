@@ -1,7 +1,16 @@
 ﻿namespace MyMath
 {
+    /// <summary>
+    /// Provides methods for matrix operations.
+    /// </summary>
     public class Matrix
     {
+        /// <summary>
+        /// Divides all elements of the matrix by the given number.
+        /// </summary>
+        /// <param name="matrix">The matrix to be divided.</param>
+        /// <param name="num">The divisor.</param>
+        /// <returns>A new matrix containing divided elements, or null if num is zero or matrix is null.</returns>
         public static int[,] Divide(int[,] matrix, int num)
         {
             if (matrix == null) return null;

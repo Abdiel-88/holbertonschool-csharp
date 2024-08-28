@@ -4,5 +4,18 @@
         <name>MyMath</name>
     </assembly>
     <members>
+        <member name="T:MyMath.Matrix">
+            <summary>
+            Provides methods for matrix operations.
+            </summary>
+        </member>
+        <member name="M:MyMath.Matrix.Divide(System.Int32[0:,0:],System.Int32)">
+            <summary>
+            Divides all elements of the matrix by the given number.
+            </summary>
+            <param name="matrix">The matrix to be divided.</param>
+            <param name="num">The divisor.</param>
+            <returns>A new matrix containing divided elements, or null if num is zero or matrix is null.</returns>
+        </member>
     </members>
 </doc>
