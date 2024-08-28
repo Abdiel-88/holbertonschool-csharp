@@ -2,6 +2,9 @@ using NUnit.Framework;
 
 namespace MyMath.Tests
 {
+    /// <summary>
+    /// Contains unit tests for the Operations class.
+    /// </summary>
     public class MatrixTests
     {
         [Test]
