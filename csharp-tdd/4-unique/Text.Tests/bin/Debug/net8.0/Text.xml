@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>
+            method that returns the index
+            of the first non-repeating character of a string.
+            </summary>
+        </member>
+        <member name="M:Text.Str.UniqueChar(System.String)">
+            <summary>
+            Returns: index of first non-repeating character
+            or -1 if there is no non-repeating character.
+            </summary>
+        </member>
+    </members>
+</doc>
