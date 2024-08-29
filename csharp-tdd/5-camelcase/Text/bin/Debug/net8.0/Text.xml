@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Text</name>
+    </assembly>
+    <members>
+        <member name="T:Text.Str">
+            <summary>Each word begins with a capital letter except the first word</summary>
+        </member>
+        <member name="M:Text.Str.CamelCase(System.String)">
+            <summary>how many words are in a string</summary>
+            <param name="s">string</param>
+            <returns> number of words in s</returns>
+        </member>
+    </members>
+</doc>
