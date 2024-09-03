@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\bin\Debug\net8.0\7-shape.exe
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\bin\Debug\net8.0\7-shape.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\bin\Debug\net8.0\7-shape.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\bin\Debug\net8.0\7-shape.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\bin\Debug\net8.0\7-shape.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\refint\7-shape.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\7-shape.genruntimeconfig.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\csharp-inheritance\7-shape\obj\Debug\net8.0\ref\7-shape.dll
