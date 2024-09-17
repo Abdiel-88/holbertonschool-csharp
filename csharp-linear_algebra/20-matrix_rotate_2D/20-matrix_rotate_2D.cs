@@ -1,41 +1,32 @@
 ﻿using System;
 
-/// <summary>
-/// A class reguarding matrices
-/// </summary>
+///<summary>MatrixMath class</summary>
 class MatrixMath
 {
-    /// <summary>
-    /// Rotates a square 2D matrix by a given angle in radians
-    /// </summary>
-    /// <param name="matrix">The matrix to rotate</param>
-    /// <param name="angle">The angle in which to rotate by</param>
-    /// <returns>The resulting matrix after rotating</returns>
+    ///<summary>method that rotates a square 2D matrix by a given angle in radians and returns the resulting matrix</summary>
+    // resource : https://math.stackexchange.com/questions/1404484/how-is-that-a-rotation-by-an-angle-%CE%B8-about-the-origin-can-be-represented-by-this
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
-        double[,] fail = { { -1 } };
+        double[,] defaultMatrix = new double[,] {{-1}};
+        double[,] twoDmatrix = new double [2,2];
+        double[,] rotate = new double[2, 2] {{Math.Cos(angle), Math.Sin(angle)}, {-1 * Math.Sin(angle), Math.Cos(angle)}}; 
+        int r = matrix.GetLength(0);
+        int c = matrix.GetLength(1);
 
-        if (matrix == null || matrix.GetLength(0) == 0 || matrix.GetLength(1) == 0)
-            return (fail);
-
-        if (matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
-            return (fail);
-
-        double[,] total = new double[2, 2];
-
-        double x1 = matrix[0, 0];
-        double y1 = matrix[0, 1];
-        double x2 = matrix[1, 0];
-        double y2 = matrix[1, 1];
-
-        double cos = Math.Cos(angle);
-        double sin = Math.Sin(angle);
-
-        total[0, 0] = Math.Round((x1 * cos), 2) - Math.Round((y1 * sin), 2);
-        total[0, 1] = Math.Round((x1 * sin), 2) + Math.Round((y1 * cos), 2);
-        total[1, 0] = Math.Round((x2 * cos), 2) - Math.Round((y2 * sin), 2);
-        total[1, 1] = Math.Round((x2 * sin), 2) + Math.Round((y2 * cos), 2);
-
-        return (total);
+        if (r != 2 || c != 2)
+        {
+           return defaultMatrix;
+        }
+        for (int i = 0; i < r; i++)
+        {
+            for (int j = 0; j < c; j++)
+            {
+                for (int k = 0; k < 2; k++)
+                {
+                    twoDmatrix[i, j] = Math.Round(twoDmatrix[i, j] + (matrix[i, k] * rotate[k, j]), 2);
+                }
+            }
+        }
+        return twoDmatrix;
     }
 }
