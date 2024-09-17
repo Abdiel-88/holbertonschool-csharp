@@ -1,40 +1,41 @@
-using System;
+﻿using System;
 
+/// <summary>
+/// A class reguarding matrices
+/// </summary>
 class MatrixMath
 {
+    /// <summary>
+    /// Rotates a square 2D matrix by a given angle in radians
+    /// </summary>
+    /// <param name="matrix">The matrix to rotate</param>
+    /// <param name="angle">The angle in which to rotate by</param>
+    /// <returns>The resulting matrix after rotating</returns>
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
-        // Ensure the matrix is 2x2 (square matrix)
+        double[,] fail = { { -1 } };
+
+        if (matrix == null || matrix.GetLength(0) == 0 || matrix.GetLength(1) == 0)
+            return (fail);
+
         if (matrix.GetLength(0) != 2 || matrix.GetLength(1) != 2)
-        {
-            return new double[,] { { -1 } };
-        }
+            return (fail);
 
-        // Calculate the rotation matrix for the given angle
-        double cosTheta = Math.Cos(angle);
-        double sinTheta = Math.Sin(angle);
+        double[,] total = new double[2, 2];
 
-        double[,] rotationMatrix = new double[,]
-        {
-            { cosTheta, -sinTheta },
-            { sinTheta, cosTheta }
-        };
+        double x1 = matrix[0, 0];
+        double y1 = matrix[0, 1];
+        double x2 = matrix[1, 0];
+        double y2 = matrix[1, 1];
 
-        double[,] result = new double[2, 2];
+        double cos = Math.Cos(angle);
+        double sin = Math.Sin(angle);
 
-        // Perform matrix multiplication: result = rotationMatrix * matrix
-        for (int i = 0; i < 2; i++)
-        {
-            for (int j = 0; j < 2; j++)
-            {
-                result[i, j] = 0;
-                for (int k = 0; k < 2; k++)
-                {
-                    result[i, j] += rotationMatrix[i, k] * matrix[k, j];
-                }
-            }
-        }
+        total[0, 0] = Math.Round((x1 * cos), 2) - Math.Round((y1 * sin), 2);
+        total[0, 1] = Math.Round((x1 * sin), 2) + Math.Round((y1 * cos), 2);
+        total[1, 0] = Math.Round((x2 * cos), 2) - Math.Round((y2 * sin), 2);
+        total[1, 1] = Math.Round((x2 * sin), 2) + Math.Round((y2 * cos), 2);
 
-        return result;
+        return (total);
     }
 }
