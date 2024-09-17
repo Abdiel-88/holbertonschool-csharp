@@ -1,1 +1,1 @@
-liner algebra
+linear algebra
