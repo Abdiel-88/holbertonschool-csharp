@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = imageprocessor
+build_property.ProjectDir = C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

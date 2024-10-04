@@ -1,0 +1,15 @@
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\bin\Debug\netcoreapp2.1\imageprocessor.xml
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\bin\Debug\netcoreapp2.1\imageprocessor.deps.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\bin\Debug\netcoreapp2.1\imageprocessor.runtimeconfig.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\bin\Debug\netcoreapp2.1\imageprocessor.runtimeconfig.dev.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\bin\Debug\netcoreapp2.1\imageprocessor.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\bin\Debug\netcoreapp2.1\imageprocessor.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.csproj.AssemblyReference.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.AssemblyInfoInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.AssemblyInfo.cs
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.csproj.CoreCompileInputs.cache
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.sourcelink.json
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.dll
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.pdb
+C:\Users\abdie\Holberton\holbertonschool-csharp\image_processor\obj\Debug\netcoreapp2.1\imageprocessor.genruntimeconfig.cache
