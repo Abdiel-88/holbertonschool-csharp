@@ -10,9 +10,9 @@ class Program
         if (args.Length > 1)
             filenames = args;
         else
-            filenames = Directory.GetFiles("images/", "*.jpg"); // Adjust this to your images folder
+            filenames = Directory.GetFiles("images/", "*.jpg"); // Change to match your image folder
 
-        // Call the ImageProcessor methods
+        // Call the ImageProcessor methods one by one, as needed
         Console.WriteLine("Processing Inverse...");
         ImageProcessor.Inverse(filenames);
 

@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
@@ -49,7 +49,7 @@ class ImageProcessor
     }
 
     /// <summary> BlackWhite Method: produce a black/white image from a given image </summary>
-    public static void BlackWhite(string[] filenames, double threshold)
+    public static void BlackWhite(string[] filenames, double threshold) {
     {
         foreach (string filename in filenames)
         {
@@ -73,15 +73,16 @@ class ImageProcessor
             }
             string new_filename = Path.GetFileNameWithoutExtension(filename) + "_bw" + Path.GetExtension(filename);
             bitmap.Save(new_filename);
+            }
         }
     }
-
     /// <summary> Thumbnail Method: produce a thumbnail image from a given image </summary>
     public static void Thumbnail(string[] filenames, int height)
     {
         foreach (string filename in filenames)
         {
             Bitmap bmap = new Bitmap(filename);
+            //Color c;
             int imageHeight = bmap.Height;
             int imageWidth = bmap.Width;
             double aspectRatioX = (double)imageWidth / imageHeight;
@@ -90,7 +91,7 @@ class ImageProcessor
             Image thumb = bmap.GetThumbnailImage(thumbWidth, height, ()=>false, IntPtr.Zero);
 
             var qualityEncoder = System.Drawing.Imaging.Encoder.Quality;
-            var quality = (long)100; // Image Quality 
+            var quality = (long)100; //Image Quality 
             var ratio = new EncoderParameter(qualityEncoder, quality);
             var codecParams = new EncoderParameters(1);
             codecParams.Param[0] = ratio;
