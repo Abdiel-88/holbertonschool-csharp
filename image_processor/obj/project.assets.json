@@ -24,22 +24,6 @@
           }
         }
       },
-      "SixLabors.ImageSharp/3.1.5": {
-        "type": "package",
-        "compile": {
-          "lib/net6.0/SixLabors.ImageSharp.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net6.0/SixLabors.ImageSharp.dll": {
-            "related": ".xml"
-          }
-        },
-        "build": {
-          "build/SixLabors.ImageSharp.props": {}
-        }
-      },
       "System.Drawing.Common/8.0.8": {
         "type": "package",
         "dependencies": {
@@ -97,22 +81,6 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "SixLabors.ImageSharp/3.1.5": {
-      "sha512": "lNtlq7dSI/QEbYey+A0xn48z5w4XHSffF8222cC4F4YwTXfEImuiBavQcWjr49LThT/pRmtWJRcqA/PlL+eJ6g==",
-      "type": "package",
-      "path": "sixlabors.imagesharp/3.1.5",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "build/SixLabors.ImageSharp.props",
-        "lib/net6.0/SixLabors.ImageSharp.dll",
-        "lib/net6.0/SixLabors.ImageSharp.xml",
-        "sixlabors.imagesharp.128.png",
-        "sixlabors.imagesharp.3.1.5.nupkg.sha512",
-        "sixlabors.imagesharp.nuspec"
-      ]
-    },
     "System.Drawing.Common/8.0.8": {
       "sha512": "4ZM1wvLjz9nVVExsfPAaSl/qOvU+QNedJL5rQ+2Wbow+iGeyO0e7XN07707rMBgaffEeeLrCZBwC0oHUuvRdPw==",
       "type": "package",
@@ -156,24 +124,23 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "SixLabors.ImageSharp >= 3.1.5",
       "System.Drawing.Common >= 8.0.8"
     ]
   },
   "packageFolders": {
-    "/home/aleister/.nuget/packages/": {}
+    "C:\\Users\\abdie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/image_processor/ImageProcessor.csproj",
-      "projectName": "ImageProcessor",
-      "projectPath": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/image_processor/ImageProcessor.csproj",
-      "packagesPath": "/home/aleister/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/image_processor/obj/",
+      "projectUniqueName": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\image_processor\\image_processor.csproj",
+      "projectName": "image_processor",
+      "projectPath": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\image_processor\\image_processor.csproj",
+      "packagesPath": "C:\\Users\\abdie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\image_processor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/aleister/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\abdie\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -202,10 +169,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "SixLabors.ImageSharp": {
-            "target": "Package",
-            "version": "[3.1.5, )"
-          },
           "System.Drawing.Common": {
             "target": "Package",
             "version": "[8.0.8, )"
@@ -227,7 +190,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

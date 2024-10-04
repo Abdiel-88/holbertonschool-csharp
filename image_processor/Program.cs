@@ -8,24 +8,21 @@ class Program
         string[] filenames;
 
         if (args.Length > 1)
-        {
             filenames = args;
-        }
         else
-        {
-            filenames = Directory.GetFiles("images/", "*.jpg");
-        }
+            filenames = Directory.GetFiles("images/", "*.jpg"); // Adjust this to your images folder
 
-        // Test Inverse Method
+        // Call the ImageProcessor methods
+        Console.WriteLine("Processing Inverse...");
         ImageProcessor.Inverse(filenames);
 
-        // Test Grayscale Method
+        Console.WriteLine("Processing Grayscale...");
         ImageProcessor.Grayscale(filenames);
 
-        // Test Black and White Method with a threshold of 128 (adjust as needed)
-        ImageProcessor.BlackWhite(filenames, 128);
+        Console.WriteLine("Processing BlackWhite...");
+        ImageProcessor.BlackWhite(filenames, 128); // Example threshold
 
-        // Test Thumbnail Method with height of 100 pixels (adjust as needed)
-        ImageProcessor.Thumbnail(filenames, 100);
+        Console.WriteLine("Processing Thumbnail...");
+        ImageProcessor.Thumbnail(filenames, 100); // Example height
     }
 }

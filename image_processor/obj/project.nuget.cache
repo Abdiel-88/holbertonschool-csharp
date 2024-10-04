@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "AnkKeQzh48w=",
+  "dgSpecHash": "pJVJZjlnmks=",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/abdie/Holberton/holbertonschool-csharp/image_processor/ImageProcessor.csproj",
+  "projectFilePath": "C:\\Users\\abdie\\Holberton\\holbertonschool-csharp\\image_processor\\image_processor.csproj",
   "expectedPackageFiles": [
-    "/home/aleister/.nuget/packages/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg.sha512",
-    "/home/aleister/.nuget/packages/sixlabors.imagesharp/3.1.5/sixlabors.imagesharp.3.1.5.nupkg.sha512",
-    "/home/aleister/.nuget/packages/system.drawing.common/8.0.8/system.drawing.common.8.0.8.nupkg.sha512"
+    "C:\\Users\\abdie\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\abdie\\.nuget\\packages\\system.drawing.common\\8.0.8\\system.drawing.common.8.0.8.nupkg.sha512"
   ],
   "logs": []
 }
