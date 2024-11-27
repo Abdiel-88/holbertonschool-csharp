@@ -1,0 +1,11 @@
+{
+  "Item.4f9d59ed-fe26-4b87-a7cc-a3b81ec52e61": {
+    "name": "TestItem",
+    "description": null,
+    "price": 0,
+    "tags": [],
+    "id": "4f9d59ed-fe26-4b87-a7cc-a3b81ec52e61",
+    "date_created": "2024-11-27T16:28:01.8369101-04:00",
+    "date_updated": "2024-11-27T16:28:01.8369109-04:00"
+  }
+}
